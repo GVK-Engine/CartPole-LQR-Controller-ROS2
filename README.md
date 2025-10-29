@@ -122,9 +122,12 @@ $$
 - **Average force:** ≤ 10 N (clipped to ±15 N)  
 - **Stable angle response** with minimal oscillation  
 
-![Cart Position & Velocity](results/cart_position_velocity.png)
-![Pole Angle & Velocity](results/pole_angle_velocity.png)
-![Control Force](results/control_force_plot.png)
+![Cart Position & Velocity]<img width="783" height="223" alt="cart" src="https://github.com/user-attachments/assets/05aba592-4430-41fe-b2b6-a6138926eb0f" />
+
+![Pole Angle & Velocity]<img width="787" height="220" alt="Pole" src="https://github.com/user-attachments/assets/a4ad789a-4523-48fa-a00c-c03b8acc87d9" />
+
+![Control Force] <img width="787" height="218" alt="Control" src="https://github.com/user-attachments/assets/99c93412-1cf8-45f1-832a-0d0628789238" />
+
 
 📺 **Simulation Video:** [Google Drive Link](https://drive.google.com/file/d/15NFFquUA6RoZW3iBdSnGAeDoxM7-QIuO/view?usp=sharing)
 
@@ -171,8 +174,7 @@ $$
 
 ---
 
-## 🧩 Lucid Motors Relevance 🌟
-Demonstrates:  
+## Demonstrates:  
 - **Optimal control system design** for dynamic stability.  
 - **State-space modelling and matrix analysis.**  
 - **Integration of simulation + hardware loops via ROS 2.**  
